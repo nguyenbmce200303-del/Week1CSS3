@@ -4,7 +4,7 @@ body {
 }
 
 header {
-  background-color: #e6f2ff; 
+  background-color: #e6f2ff;
 }
 
 nav {
@@ -17,12 +17,12 @@ main {
 }
 
 footer {
-  background-color: #e6f2ff; 
+  background-color: #e6f2ff;
 }
 
 li {
-  display: inline-block; 
-  width: 150px;           
+  display: inline-block;
+  width: 150px;
 }
 
 h1 {
@@ -32,5 +32,5 @@ h1 {
 }
 
 p {
-  line-height: 1.6; 
+  line-height: 1.6;
 }
