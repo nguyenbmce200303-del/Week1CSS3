@@ -1,4 +1,36 @@
-body{
+body {
   font-family: 'Times New Roman', Times, serif;
   font-size: 150%;
+}
+
+header {
+  background-color: #e6f2ff; /* Màu nền tiêu đề */
+}
+
+nav {
+  background-color: #cce0ff;
+}
+
+main {
+  background-color: #f9f9f9;
+  font-size: 100%;
+}
+
+footer {
+  background-color: #e6f2ff; 
+}
+
+li {
+  display: inline-block; 
+  width: 150px;           
+}
+
+h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #003366;
+}
+
+p {
+  line-height: 1.6; 
 }
